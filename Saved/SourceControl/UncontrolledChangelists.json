@@ -6,7 +6,36 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"D:/Gitpush/Rudichswordpro/Content/FPSwordAndShield/Maps/DemoMap.umap",
-				"D:/Gitpush/Rudichswordpro/Content/FPSwordAndShield/Blueprints/FirstPersonCharacter.uasset"
+				"D:/Gitpush/Rudichswordpro/Content/FPSwordAndShield/Blueprints/FirstPersonCharacter.uasset",
+				"D:/Gitpush/Rudichswordpro/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"D:/Gitpush/Rudichswordpro/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"D:/Gitpush/Rudichswordpro/Content/ThirdPerson/Blueprints/BP_player.uasset",
+				"D:/Gitpush/Rudichswordpro/Content/ThirdPerson/BP_EnemyAi.uasset",
+				"D:/Gitpush/Rudichswordpro/Content/FPSwordAndShield/Blueprints/FirstPersonGameMode.uasset",
+				"D:/Gitpush/Rudichswordpro/Content/Characters/Mannequins/Meshes/SKM_Manny.uasset",
+				"D:/Gitpush/Rudichswordpro/Content/ThirdPerson/ANimeti/Block_Hit_Seq.uasset",
+				"D:/Gitpush/Rudichswordpro/Content/ThirdPerson/ANimeti/Block_Loop_Seq.uasset",
+				"D:/Gitpush/Rudichswordpro/Content/ThirdPerson/ANimeti/Block_Loop_Seq_Montage.uasset",
+				"D:/Gitpush/Rudichswordpro/Content/ThirdPerson/ANimeti/Hit_F_Seq.uasset",
+				"D:/Gitpush/Rudichswordpro/Content/ThirdPerson/ANimeti/Parry.uasset",
+				"D:/Gitpush/Rudichswordpro/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset",
+				"D:/Gitpush/Rudichswordpro/Content/ThirdPerson/Sword/Sword_BP.uasset",
+				"D:/Gitpush/Rudichswordpro/Content/ThirdPerson/AIBP_Sword.uasset",
+				"D:/Gitpush/Rudichswordpro/Content/ThirdPerson/ANimeti/Run_Attack_02_Seq.uasset",
+				"D:/Gitpush/Rudichswordpro/Content/ThirdPerson/ANimeti/Run_Attack_02_Seq_Montage.uasset",
+				"D:/Gitpush/Rudichswordpro/Content/ThirdPerson/ANimeti/WeaponNState.uasset",
+				"D:/Gitpush/Rudichswordpro/Content/ThirdPerson/ANimeti/Block_Hit_Seq_Montage.uasset",
+				"D:/Gitpush/Rudichswordpro/Content/ThirdPerson/ANimeti/Hit_F_Seq_Montage.uasset",
+				"D:/Gitpush/Rudichswordpro/Content/ThirdPerson/SysInterface.uasset",
+				"D:/Gitpush/Rudichswordpro/Content/ThirdPerson/ANimeti/Combo_Attack_01_01_Seq.uasset",
+				"D:/Gitpush/Rudichswordpro/Content/ThirdPerson/ANimeti/Combo_Attack_01_01_Seq_Montage.uasset",
+				"D:/Gitpush/Rudichswordpro/Content/ThirdPerson/ANimeti/Parry_Montage.uasset",
+				"D:/Gitpush/Rudichswordpro/Content/ThirdPerson/ANimeti/Sword_Animations/Animations/Sequence/02_Attack/01_Combo_Attack_01/Combo_Attack_01_04_Seq.uasset",
+				"D:/Gitpush/Rudichswordpro/Content/ThirdPerson/SysInterfase.uasset",
+				"D:/Gitpush/Rudichswordpro/Content/ThirdPerson/ANimeti/Combo_Attack_Wave_05_04_Seq.uasset",
+				"D:/Gitpush/Rudichswordpro/Content/ThirdPerson/Sword/Sword_BPAI.uasset",
+				"D:/Gitpush/Rudichswordpro/Content/ThirdPerson/ANimeti/Combo_Attack_03_01_Seq.uasset",
+				"D:/Gitpush/Rudichswordpro/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
 			]
 		}
 	]
